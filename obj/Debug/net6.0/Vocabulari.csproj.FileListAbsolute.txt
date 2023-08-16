@@ -1,0 +1,15 @@
+C:\Users\miick\Documents\DAM2\M3\Llistes Avancades\Vocabulari\bin\Debug\net6.0\Vocabulari.exe
+C:\Users\miick\Documents\DAM2\M3\Llistes Avancades\Vocabulari\bin\Debug\net6.0\Vocabulari.deps.json
+C:\Users\miick\Documents\DAM2\M3\Llistes Avancades\Vocabulari\bin\Debug\net6.0\Vocabulari.runtimeconfig.json
+C:\Users\miick\Documents\DAM2\M3\Llistes Avancades\Vocabulari\bin\Debug\net6.0\Vocabulari.dll
+C:\Users\miick\Documents\DAM2\M3\Llistes Avancades\Vocabulari\bin\Debug\net6.0\Vocabulari.pdb
+C:\Users\miick\Documents\DAM2\M3\Llistes Avancades\Vocabulari\obj\Debug\net6.0\Vocabulari.csproj.AssemblyReference.cache
+C:\Users\miick\Documents\DAM2\M3\Llistes Avancades\Vocabulari\obj\Debug\net6.0\Vocabulari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miick\Documents\DAM2\M3\Llistes Avancades\Vocabulari\obj\Debug\net6.0\Vocabulari.AssemblyInfoInputs.cache
+C:\Users\miick\Documents\DAM2\M3\Llistes Avancades\Vocabulari\obj\Debug\net6.0\Vocabulari.AssemblyInfo.cs
+C:\Users\miick\Documents\DAM2\M3\Llistes Avancades\Vocabulari\obj\Debug\net6.0\Vocabulari.csproj.CoreCompileInputs.cache
+C:\Users\miick\Documents\DAM2\M3\Llistes Avancades\Vocabulari\obj\Debug\net6.0\Vocabulari.dll
+C:\Users\miick\Documents\DAM2\M3\Llistes Avancades\Vocabulari\obj\Debug\net6.0\refint\Vocabulari.dll
+C:\Users\miick\Documents\DAM2\M3\Llistes Avancades\Vocabulari\obj\Debug\net6.0\Vocabulari.pdb
+C:\Users\miick\Documents\DAM2\M3\Llistes Avancades\Vocabulari\obj\Debug\net6.0\Vocabulari.genruntimeconfig.cache
+C:\Users\miick\Documents\DAM2\M3\Llistes Avancades\Vocabulari\obj\Debug\net6.0\ref\Vocabulari.dll
